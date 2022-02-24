@@ -19,7 +19,10 @@ That's it! Now you can use hotkeys in the following layout:
 
 Keys function as toggles, so you should press **M** to open the map as well as to close it. I'd not recommend to mix keyboard and mouse control, so if you opened some panel using keyboard you should close it with keyboard. On the other hand, if you opened the panel with mouse, use the mouse to close it.
 
+**Don't use hotkeys in home dungeon** unless you wanna hug the Klackon, lol.
+
 ## Wanna support author?
+BSC: `0xb18D50738B5E7dDa93246767958a941dfc517393`
 
 CRUSADER is prefered as well as CoC NFTs (especially Molten Hammer lvl3, haha)
     
