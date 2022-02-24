@@ -26,5 +26,7 @@ Keys function as toggles, so you should press **M** to open the map as well as t
 ## Wanna support author?
 BSC: `0xb18D50738B5E7dDa93246767958a941dfc517393`
 
+![QR](/pics/qr.png)
+
 CRUSADER is prefered as well as CoC NFTs (especially Molten Hammer lvl3, haha)
     
