@@ -18,7 +18,7 @@ and click `+ New snippet`
 
 ![step 3](/pics/step03.png)
 
-Type the name whatever you want and copypaste contents of [coc-hk.js](coc-hk.js) to the main text field.
+Type the name whatever you want and copypaste contents of [coc-hk.js](coc-hk.js) to the main text field. Finally, press Ctrl+S to save the snippet.
 
 ![step 4](/pics/step04.png)
 
