@@ -22,7 +22,7 @@ Type the name whatever you want and copypaste contents of [coc-hk.js](coc-hk.js)
 
 ![step 4](/pics/step04.png)
 
-To activate hotkey functionality open the game and wait until it's loaded. Then open developer tools, go to `Snippets`, right-click your snippet and choose `Run` in the popup menu.
+To activate hotkey functionality open the game and wait until it's loaded. Then open developer tools, go to `Snippets`, right-click your snippet and choose `Run` in the popup menu. This action must be done every time you load the game.
 
 ![step 5](/pics/step05.png)
 
