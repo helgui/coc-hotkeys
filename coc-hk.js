@@ -25,25 +25,29 @@ var _helper = {
     }
 };
 
-document.addEventListener('keyup', (e) => {        
-    if (e.code == 'KeyI') {
-        _helper.toggle('Inventory');
-        return;        
-    }
-    if (e.code == 'KeyE') {
-        _helper.toggle('Equipment');
-        return;
-    }
-    if (e.code == 'KeyM') {
-        _helper.toggle('Map');
-        return;
-    }
-    if (e.code == 'KeyL') {
-        _helper.toggle('CombatLog');
-        return;
-    }
-    if (e.code == 'KeyY') {
-        _helper.startOver();
-        return;
-    }
-});
+//re-execution guard
+if (!('cocHotkeysAssigned' in window)) { 
+    window.cocHotkeysAssigned = true;
+    document.addEventListener('keyup', (e) => {        
+        if (e.code == 'KeyI') {
+            _helper.toggle('Inventory');
+            return;        
+        }
+        if (e.code == 'KeyE') {
+            _helper.toggle('Equipment');
+            return;
+        }
+        if (e.code == 'KeyM') {
+            _helper.toggle('Map');
+            return;
+        }
+        if (e.code == 'KeyL') {
+            _helper.toggle('CombatLog');
+            return;
+        }
+        if (e.code == 'KeyY') {
+            _helper.startOver();
+            return;
+        }
+    });
+}
